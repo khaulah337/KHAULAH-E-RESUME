@@ -1,0 +1,26 @@
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>INDEX</title>
+</head>
+<body>   
+  <div class="topnav" id="myTopnav">
+    <a  class="active" href="index.html"><i class="fa fa-fw fa-home"></i> Home</a>  
+    
+    <div class="dropdown">
+      <button class="dropbtn"><i class="fa fa-fw fa-book"></i>ABOUT ME 
+        <i class="fa fa-caret-down"></i>
+      </button>
+      <div class="dropdown-content">
+        <a href="biodata.html">BIODATA</a>
+        <a href="education.html">EDUCATION </a>
+        <a href="experience.html">EXPERIENCE</a>
+        <a href="family.html">FAMILY</a>
+        <a href="gallery.html">GALLERY</a>
+        <a href="student.html">STUDENT</a>
+      </div>
+    </div> 
+           
+</body>
+</html>
